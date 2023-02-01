@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: #141428;
+
+}
+#container{
+  max-width: 400px;
+  width: 100%;
+  height: auto;
+  background: #3d1364;
+  margin: 10em auto;
+  border-radius: 8px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  
+}
+h1{
+  margin-top: 15px;
+}
+
+form{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+   padding: 15px;
+}
+
+form input, form label{
+  display: block;
+  width: 50%;
+  font-size: 20px;
+  padding: 5px;
+  text-align: center;
+
+}
+input{
+  border-radius: 8px;
+  border: 1px solid blue;
+}
+
+button{
+  width: 50%;
+  padding: 10px;
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  background: rgba(255, 225, 225, 0.14);
+  cursor: pointer;
+  color: white;
+
+  border-radius: 8px;
+}
+
+button:hover{
+  background: rgb(189, 43, 226);
+  color: white;
+  font-weight: bold;
+  border: 1px solid white;
+  transition: 0.2s ease-in;
+}
+
+.answer, .bgr{
+  width: 80%;
+  margin: 0px auto 20px;
+  background: white;
+  color: black;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 8px;
+}
+.bgr{
+  background: rgb(192, 79, 79);
+}
