@@ -1,5 +1,5 @@
-<h1 align="center"> Basic project of IMC</h>
-<p align="center"><h2> Projeto com o intuito de calcular o Indice de massa corporal. <br></h2> </p>
+<h1 align="center"> basic Imc project </h>
+<p align="center"><h2> Imc e um projeto com intuito de calcular o indice de massa corporal. <br></h2> </p>
 
 <p align="center"><h2>
    <a href="#-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto Card" src=".github/preview (3).png" width="100%">
+  <img alt="Projeto Card" src=".github/preview.png" width="100%">
 </p>
 
 ## 🤖 Tecnologias
@@ -22,13 +22,12 @@
 - CSS
 - JavaScript
 - Git/Github
-- Figma
 
 ## 🖥️ Projeto
 
-Projeto Card e um app tipo portifolio que serve como cartao de visita.
+Projeto Imc e um app que calcula seu indice de massa corporal.
 
-- [📌Acesse o projeto finalizado, online](https://jeferson-3.github.io/Card/)
+- [📌Acesse o projeto finalizado, online](https://jeferson-3.github.io/Projeto_IMC/)
 
 <br>
 <br>
